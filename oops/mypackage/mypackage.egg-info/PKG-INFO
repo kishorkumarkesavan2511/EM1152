@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: mypackage
+Version: 0.1
+Summary: A simple math package
+Author: Kishore Kumar
+Dynamic: author
+Dynamic: summary
